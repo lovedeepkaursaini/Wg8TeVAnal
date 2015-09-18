@@ -1,0 +1,18 @@
+csh submitProduction.csh /eos/uscms/store/user/iraklis/ggNtuples Wg.txt
+csh submitProduction.csh /eos/uscms/store/user/makouski Wjet.txt
+csh submitProduction.csh /eos/uscms/store/user/iraklis/ggNtuples Zg.txt
+csh submitProduction.csh /eos/uscms/store/user/makouski DYjets.txt
+csh submitProduction.csh /eos/uscms/store/user/iraklis/ggNtuples ttjets_1l.txt
+csh submitProduction.csh /eos/uscms/store/user/makouski ttjets_2l.txt
+csh submitProduction.csh /eos/uscms/store/user/iraklis/ggNtuples ttg.txt
+csh submitProduction.csh /eos/uscms/store/user/iraklis/ggNtuples ttW.txt
+csh submitProduction.csh /eos/uscms/store/user/iraklis/ggNtuples WW.txt
+csh submitProduction.csh /eos/uscms/store/user/iraklis/ggNtuples WZ3lnu.txt
+csh submitProduction.csh /eos/uscms/store/user/iraklis/ggNtuples ZZ2l2nu.txt
+csh submitProduction.csh /eos/uscms/store/user/iraklis/ggNtuples ZZ2q2nu.txt
+
+
+csh submitProduction.csh /eos/uscms/store/user/iraklis/ggNtuples data1.txt
+csh submitProduction.csh /eos/uscms/store/user/iraklis/ggNtuples data2.txt
+csh submitProduction.csh /eos/uscms/store/user/iraklis/ggNtuples data3.txt
+csh submitProduction.csh /uscmst1b_scratch/lpc1/old_scratch/lpceg/yurii/iraklis/Makouski/CMSSW_5_3_12/src/ggAnalysis/ggNtuplizer/test/ data4.txt
