@@ -234,7 +234,7 @@ void skimmer_wg::Loop(TString outputName, float xsScale, int processCode)
 
     vector <int> ielectrons;
     for (int iele = 0; iele < nEle; ++iele){
-      if ((*elePt)[iele] < 30) continue;
+      if ((*elePt)[iele] < 10) continue;
       if ( fabs((*eleSCEta)[iele]) > 1.4442 && fabs((*eleSCEta)[iele]) < 1.566 ) continue;
       if ( fabs((*eleSCEta)[iele]) > 2.5 ) continue;
       if(! eIDVeto2012(iele) ) continue;
